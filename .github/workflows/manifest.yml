@@ -1,0 +1,30 @@
+name: Atualizar galeria
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "heychamp/**"
+      - "pessoal/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  manifest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/build_manifest.py
+      - name: Commit manifest
+        run: |
+          if git diff --quiet manifest.json; then exit 0; fi
+          git config user.name "galeria-bot"
+          git config user.email "galeria-bot@users.noreply.github.com"
+          git add manifest.json
+          git commit -m "Atualiza manifest da galeria"
+          git push
