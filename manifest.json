@@ -2,6 +2,23 @@
   "carrosseis": [
     {
       "marca": "heychamp",
+      "pasta": "heychamp/fixado_1",
+      "titulo": "Fixado 1 · Como funciona a consultoria HEYCHAMP",
+      "data": "",
+      "status": "pronto",
+      "legenda": "A HEYCHAMP não troca tua ficha por outra. Ela estrutura um treino pro teu objetivo e pra tua rotina, planeja a progressão e acompanha como teu corpo responde.\n\nTreino individualizado, progressão planejada, correção de execução por vídeo e acompanhamento quinzenal. Tudo no app, com suporte no WhatsApp.\n\nComenta CHAMP que a gente te manda o diagnóstico gratuito no direct.\n\n#heychamp #consultoriaonline #treinoindividualizado",
+      "slides": [
+        "01_capa.jpg",
+        "02_nao-e-ficha.jpg",
+        "03_treino-individualizado.jpg",
+        "04_progressao.jpg",
+        "05_correcao.jpg",
+        "06_acompanhamento.jpg",
+        "07_cta.jpg"
+      ]
+    },
+    {
+      "marca": "heychamp",
       "pasta": "heychamp/2026-10-28_perdeu-um-treino",
       "titulo": "Perdeu um treino na semana? 3 regras",
       "data": "2026-10-28",
