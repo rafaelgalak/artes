@@ -66,6 +66,22 @@
         "06_virada.jpg",
         "07_cta.jpg"
       ]
+    },
+    {
+      "marca": "pessoal",
+      "pasta": "pessoal/2026-11-05_evolucao",
+      "titulo": "Você sabe se está evoluindo?",
+      "data": "2026-11-05",
+      "status": "pronto",
+      "legenda": "Você pode treinar a semana inteira e mesmo assim não saber se está evoluindo. 👀\n\nSem carga e repetição anotadas, cada treino é um palpite. Com elas, você sabe exatamente quando subir, quando segurar e o que mudou desde o mês passado.\n\nMe conta nos comentários: o que evoluiu no teu último mês?\n\n#heychamp #progressaodecarga #hipertrofia",
+      "slides": [
+        "01_capa.jpg",
+        "02_pergunta1.jpg",
+        "03_pergunta2.jpg",
+        "04_pergunta3.jpg",
+        "05_na-pratica.jpg",
+        "06_cta.jpg"
+      ]
     }
   ]
 }
