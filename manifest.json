@@ -100,6 +100,22 @@
     },
     {
       "marca": "pessoal",
+      "pasta": "pessoal/2026-11-11_comeco-feio",
+      "titulo": "Teu primeiro mês de treino vai ser feio",
+      "data": "2026-11-11",
+      "status": "pronto",
+      "legenda": "Ninguém começa bom. Só começa 🏋️\n\nTodo físico que você admira teve um primeiro mês sem diferença nenhuma no espelho. Você só não viu, porque ninguém posta essa parte.\n\nO problema é colocar o teu começo do lado do resultado de alguém que treina há anos. Aí parece que não adianta, e você larga antes de dar tempo de funcionar.\n\nEu comecei em fevereiro, torto igual a todo mundo. O que mudou foi comparar só comigo: carga, registro e constância.\n\nComenta aí há quanto tempo você treina 👇\n\n#heychamp #treino #constancia",
+      "slides": [
+        "01_capa.jpg",
+        "02_repara.jpg",
+        "03_comparacao.jpg",
+        "04_meu-comeco.jpg",
+        "05_na-pratica.jpg",
+        "06_cta.jpg"
+      ]
+    },
+    {
+      "marca": "pessoal",
       "pasta": "pessoal/2026-11-05_evolucao",
       "titulo": "Você sabe se está evoluindo?",
       "data": "2026-11-05",
