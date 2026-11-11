@@ -9,7 +9,7 @@ import os
 import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MARCAS = ["heychamp", "pessoal"]
+MARCAS = ["heychamp", "pessoal", "hype"]
 IMG = (".jpg", ".jpeg", ".png", ".webp")
 
 
