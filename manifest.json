@@ -70,6 +70,21 @@
     },
     {
       "marca": "heychamp",
+      "pasta": "heychamp/2026-11-19_treino-pesado-nao-te-deixa-grande",
+      "titulo": "Treino pesado nao te deixa grande",
+      "data": "2026-11-19",
+      "status": "pronto",
+      "legenda": "",
+      "slides": [
+        "01.jpg",
+        "02.jpg",
+        "03.jpg",
+        "04.jpg",
+        "05.jpg"
+      ]
+    },
+    {
+      "marca": "heychamp",
       "pasta": "heychamp/2026-11-18_treino-perfeito",
       "titulo": "O treino perfeito pra uma semana que não existe · 18/11",
       "data": "2026-11-18",
