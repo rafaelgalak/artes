@@ -34,6 +34,24 @@
     },
     {
       "marca": "heychamp",
+      "pasta": "heychamp/2026-11-25_tarde-demais-forca",
+      "titulo": "Tarde demais pra ganhar força?",
+      "data": "2026-11-25",
+      "status": "pronto",
+      "legenda": "",
+      "slides": [
+        "01_capa.jpg",
+        "02_escada.jpg",
+        "03_musculo.jpg",
+        "04_prova.jpg",
+        "05_tabela.jpg",
+        "06_pratica.jpg",
+        "07_3-pontos.jpg",
+        "08_cta.jpg"
+      ]
+    },
+    {
+      "marca": "heychamp",
       "pasta": "heychamp/2026-11-25_nao-e-trocar-tua-ficha",
       "titulo": "Não é trocar tua ficha por outra · 25/11",
       "data": "2026-11-25",
