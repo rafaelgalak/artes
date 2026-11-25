@@ -2,7 +2,7 @@
 
 Referência: `heychamp/2026-11-25_tarde-demais-forca` (v5 aprovada).
 
-- `build3.py`: monta o carrossel de 8 slides (cada slide num layout). Reaproveita as fontes de `build2.py`.
+- `build3.py`: monta o carrossel de 8 slides (cada slide num layout). Reaproveita as fontes de `build2.py`, que puxa os helpers de `build.py`.
 - `shot.py`: exporta cada slide 1080×1350 com Playwright e confere as fontes.
 
 Uso (na pasta, com `npm i @fontsource/barlow-condensed @fontsource/inter` e playwright instalados):
