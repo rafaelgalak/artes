@@ -247,6 +247,21 @@
     },
     {
       "marca": "pessoal",
+      "pasta": "pessoal/2026-11-26_frases",
+      "titulo": "5 frases",
+      "data": "2026-11-26",
+      "status": "pronto",
+      "legenda": "",
+      "slides": [
+        "01_capa.jpg",
+        "02_tweet.jpg",
+        "03_verdade.jpg",
+        "04_me-conduz.jpg",
+        "05_pra-salvar.jpg"
+      ]
+    },
+    {
+      "marca": "pessoal",
       "pasta": "pessoal/2026-11-18_3-colunas",
       "titulo": "Como eu anoto meu treino em 3 colunas · 18/11",
       "data": "2026-11-18",
